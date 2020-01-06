@@ -2,6 +2,10 @@
   "name": "pms-accordion",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mavortius/pms-accordion.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
